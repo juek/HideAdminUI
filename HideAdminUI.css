@@ -1,0 +1,92 @@
+/*
+################################################
+CSS for for Typesetter CMS addon 'Hide Admin UI'
+Author: J. Krausz
+Date: 2018-01-14
+Version 1.0
+################################################
+*/
+
+
+/* Open Editor page offset */
+html.override_admin_style {
+  margin-left:0!important;
+  margin-top:0!important;
+  width:auto!important;
+}
+
+/* Admin UI elements */
+html.override_admin_style #gp_admin_html {
+  display:none;
+}
+
+/* messages */
+html.override_admin_style .messages.gp-fixed-adjust {
+  display:none;
+}
+
+
+/* Bootswatch fixed navbars - topbar compensation */
+html.override_admin_style .gp-fixed-adjust {
+  margin-top:0!important;
+}
+
+/* THEME CAJON */
+html.override_admin_style nav.navbar-theme-cajon {
+  left:0!important;
+}
+
+/* Indicator */
+div.hidden-admin-ui-indicator {
+  display:none;
+}
+
+html.override_admin_style div.hidden-admin-ui-indicator {
+  display:block;
+  z-index:12000; 
+  cursor:pointer;
+  position:fixed;
+  top:6px;
+  right:6px;
+  width:23px;
+  height:23px;
+  line-height:23px;
+  font-size:16px;
+  text-align:center;
+  border-radius:50%;
+  background:rgba(56,171,44,0.8);
+  color:rgba(255,255,255,0.8);
+  -webkit-animation:2s infinite indicator-pulse;
+  animation:3s infinite indicator-pulse;
+}
+
+html.override_admin_style div.hidden-admin-ui-indicator:before {
+  content:"\f2bd";
+  display:inline;
+  font-family:FontAwesome;
+}
+
+
+@media print {
+  html.override_admin_style div.hidden-admin-ui-indicator { display:none; }
+}
+
+@keyframes indicator-pulse {
+  0%    { background:rgba(56,171,44,0.8); color:rgba(255,255,255,0.8); }
+  24%   { background:rgba(220,81,53,0);   color:rgba(255,255,255,0); }
+  26%   { background:rgba(220,81,53,0);   color:rgba(255,255,255,0); }
+  50%   { background:rgba(220,81,53,0.8); color:rgba(255,255,255,0.8); }
+  74%   { background:rgba(220,81,53,0);   color:rgba(255,255,255,0); }
+  76%   { background:rgba(56,171,44,0);   color:rgba(255,255,255,0); }
+  100%  { background:rgba(56,171,44,0.8); color:rgba(255,255,255,0.8); }
+}
+
+@-webkit-keyframes indicator-pulse {
+  0%    { background:rgba(56,171,44,0.8); color:rgba(255,255,255,0.8); }
+  24%   { background:rgba(220,81,53,0);   color:rgba(255,255,255,0); }
+  26%   { background:rgba(220,81,53,0);   color:rgba(255,255,255,0); }
+  50%   { background:rgba(220,81,53,0.8); color:rgba(255,255,255,0.8); }
+  74%   { background:rgba(220,81,53,0);   color:rgba(255,255,255,0); }
+  76%   { background:rgba(56,171,44,0);   color:rgba(255,255,255,0); }
+  100%  { background:rgba(56,171,44,0.8); color:rgba(255,255,255,0.8); }
+}
