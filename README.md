@@ -5,7 +5,7 @@
 When logged-in and editing pages, this plugin lets you hide/unhide all admin user interface elements by pressing **[Ctrl]+[H]**. 
 
 * No need to log-off anymore to see the pages &lsquo;undisturbed&rsquo; as they appear to visitors.
-* Hides Admin Menu, Admin Top Bar and possible open Editor Panel, modal Admin Box or the Messages Bbar.
+* Hides Admin Menu, Admin Top Bar and possible open Editor Panel, modal Admin Box or the Messages Bar.
 * To exit the hidden state, again press **[Ctrl]+[H]** or **[Esc]** or click the blinking indicator icon in the top right corner of the viewport.
 * For better mobile device simulation, the admin UI auto-hides when the viewport becomes less than 992px wide. 
 
