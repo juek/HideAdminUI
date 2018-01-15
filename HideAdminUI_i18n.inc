@@ -22,7 +22,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Sleutelbordkortpaaie',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // العربية/Arabic
@@ -42,7 +42,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Клавишна комбинация',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Català/Catalan
@@ -52,7 +52,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Tecla de drecera',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Česky/Czech
@@ -62,7 +62,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Klávesová zkratka',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Dansk
@@ -72,7 +72,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Tastaturgenvej',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Deutsch/German
@@ -82,7 +82,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Tastaturkurzbefehl',
     'Ctrl'                      => 'Strg',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Ελληνικά/Greek
@@ -92,7 +92,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Συντόμευση πληκτρολογίου',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // English(default)
@@ -102,7 +102,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Keyboard Shortcut',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Español/Spanish
@@ -112,7 +112,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Klaviatuuri otsetee',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // eesti/Estonian
@@ -122,7 +122,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'XXX',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Suomi/Finnish
@@ -132,17 +132,17 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Näppäinoikeus',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Føroyskt/Faroese
   'fo' => array(
-    'Hide Admin UI'             => 'Fjala Admin UI',
-    'Show Admin UI'             => 'Sýna Admin UI',
-    'Keyboard Shortcut'         => 'Knappaborð stytting',
+    'Hide Admin UI'             => 'Krógva Admin UI',
+    'Show Admin UI'             => 'Vís Admin UI',
+    'Keyboard Shortcut'         => 'Knappaborð snarvegur',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Français/French
@@ -152,7 +152,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Raccourci clavier',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Galego/Galician
@@ -162,7 +162,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Atallo de teclado',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // hrvatski/Croatian
@@ -172,7 +172,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Prečac na tipkovnici',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Magyar/Hungarian
@@ -182,7 +182,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Billentyűparancs',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Italiano/Italian
@@ -192,7 +192,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Scorciatoia da tastiera',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // 日本語/Japanese
@@ -202,7 +202,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'キーボードショートカット',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Lietuvių/Lithuanian
@@ -212,7 +212,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Spartieji klavišai',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Nederlands/Dutch
@@ -222,7 +222,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Toetsenbord sneltoets',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Norsk/Norwegian
@@ -232,7 +232,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Tastaturgenvei',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Polski/Polish
@@ -242,7 +242,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Skrót klawiszowy',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Português/Portuguese
@@ -252,7 +252,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Atalho do teclado',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Português do Brasil/Brazilian Portuguese
@@ -262,7 +262,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Atalho do teclado',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Română/Romanian
@@ -272,7 +272,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Comanda rapidă de la tastatură',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Русский/Russian
@@ -282,7 +282,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Сочетание клавиш',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Slovenčina/Slovak
@@ -292,7 +292,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Klávesová skratka',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Slovenščina/Slovenian
@@ -302,7 +302,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Bližnjica na tipkovnici',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Svenska/Swedish
@@ -312,7 +312,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Tangentbordsgenväg',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Türkçe/Turkish
@@ -322,7 +322,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Klavye kısayolu',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // Українська/Ukrainian
@@ -332,7 +332,7 @@ $HideAdminUI_i18n = array(
     'Keyboard Shortcut'         => 'Kомбінація клавіш',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
-    'Shift'                     => '&uArr;',
+    'Shift'                     => 'Shift',
   ),
 
   // 中文/Zhōng Wén/Chinese
