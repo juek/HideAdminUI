@@ -11,6 +11,9 @@ When logged-in and editing pages, this plugin lets you hide/unhide all admin use
 
 See also [Typesetter Home](http://www.typesettercms.com), [Typesetter on GitHub](https://github.com/Typesetter/Typesetter)
 
+## Internationalization
+Please help to improve the [translation](https://github.com/juek/HideAdminUI/blob/master/HideAdminUI_i18n.inc)
+
 ## Current Version
 1.1
 
