@@ -15,7 +15,7 @@ See also [Typesetter Home](http://www.typesettercms.com), [Typesetter on GitHub]
 1.1
 
 ## Change Log
-v1.1 - Improved UI integration, added internationalization, easier customization (via code)
+v1.1 - Improved UI integration, added internationalization, easier customization (via code) 
 v1.0 - Inital version
 
 ## Requirements
