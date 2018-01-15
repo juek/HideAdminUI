@@ -278,7 +278,7 @@ $HideAdminUI_i18n = array(
   // Русский/Russian
   'ru' => array(
     'Hide Admin UI'             => 'Скрыть Aдмин UI',
-    'Show Admin UI'             => 'Показать пользовательский Aдмин UI',
+    'Show Admin UI'             => 'Показать Aдмин UI',
     'Keyboard Shortcut'         => 'Сочетание клавиш',
     'Ctrl'                      => 'Ctrl',
     'Alt'                       => 'Alt',
