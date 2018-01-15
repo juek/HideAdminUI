@@ -65,7 +65,7 @@ $HideAdminUI_i18n = array(
     'Shift'                     => 'Shift',
   ),
 
-  // Dansk
+  // Dansk/Danish
   'da' => array(
     'Hide Admin UI'             => 'Skjul Admin UI',
     'Show Admin UI'             => 'Vis Admin UI',

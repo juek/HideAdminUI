@@ -31,6 +31,10 @@ html.override_admin_style .gp-fixed-adjust {
   margin-top:0!important;
 }
 
+html.override_admin_style body.gpAdmin .navbar-fixed-top {
+  top:0;
+}
+
 /* Theme Cajon Navbar */
 html.override_admin_style nav.navbar-theme-cajon {
   left:0!important;
