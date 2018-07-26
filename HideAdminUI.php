@@ -12,7 +12,7 @@ defined('is_running') or die('Not an entry point...');
 
 class HideAdminUI{
 
-  public function GetHead() {
+  public static function GetHead() {
     global $page, $addonRelativeCode, $config;
     if( !\gp\tool::LoggedIn() || !$page->title ){ // FYI: !$page->title means we're on an admin page
       return;
