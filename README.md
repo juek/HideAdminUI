@@ -26,7 +26,7 @@ Please help to improve the [translation](https://github.com/juek/HideAdminUI/blo
 * 1.0 - Inital version
 
 ## Requirements
-* Typesetter CMS 5.0+
+* Typesetter CMS 5.0 and 5.1, obsolete as of Typesetter 5.2
 
 ## Manual Installation
 1. Download the [master ZIP archive](https://github.com/juek/HideAdminUI/archive/master.zip)
