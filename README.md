@@ -1,5 +1,9 @@
 # Hide Admin UI plugin for Typesetter CMS #
 
+## Obsolete as of Typesetter 5.2 ##
+
+The functionality of this plugin was [implemented](https://github.com/Typesetter/Typesetter/commit/a3b483e5426b5fc4878723f57ff670f295c2bfca) in Typesetter 5.1.1-b1 and is from now on part of the core system of Typesetter 5.2+. For this reason, it is no longer being developed. Users of Typesetter 5.0 and 5.1 (including Beta 5.1.1-b1 until March 04, 2020) can continue to install and use it. When upgrading to Typesetter 5.2, it **must be uninstalled**.
+
 ## About ##
 
 When logged-in and editing pages, this plugin lets you hide/unhide all admin user interface elements by clicking the new top-left icon in the Admin Top Bar or pressing *[Ctrl]+[H]*. 
